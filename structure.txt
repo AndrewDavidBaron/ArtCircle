@@ -1,0 +1,33 @@
+.
+├── app
+│   ├── api
+│   │   └── auth
+│   ├── circle
+│   │   └── page.tsx
+│   ├── globals.css
+│   ├── intel
+│   │   └── page.tsx
+│   ├── layout.js
+│   ├── layout.tsx
+│   ├── page.tsx
+│   ├── profile
+│   │   └── page.tsx
+│   ├── signin
+│   │   └── page.tsx
+│   └── voice
+│       └── page.tsx
+├── components
+│   └── NavBar.tsx
+├── next-env.d.ts
+├── package-lock.json
+├── package.json
+├── public
+│   └── logo.png
+├── README.md
+├── structure.txt
+├── tailwind.config,js
+├── tsconfig.json
+├── vercel-build.js
+└── vercel-redeploy.txt
+
+11 directories, 20 files
